@@ -1,0 +1,11 @@
+{
+    "name": "ALCustomPage",
+    "alias": "alcustompage",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\ALCustomPage\\Providers\\ALCustomPageServiceProvider"
+    ],
+    "files": []
+}
